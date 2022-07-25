@@ -116,7 +116,7 @@ open_button = ttk.Button(
 
 
 # display an image label
-photo = tk.PhotoImage(file='C:\\Users\\Admin\\Downloads\\Your_image.png')
+photo = tk.PhotoImage(file='Your_image.png')
 image_label = ttk.Label(
     root,
     image=photo
